@@ -1,4 +1,4 @@
 # WC_APIClient
 WooCommerce API Client
 
-Hello its my first prject :)
+Hello its my first project :)
